@@ -1,1 +1,2 @@
-# rust-for-fun
+# rust-learning
+place for my rust stuff
