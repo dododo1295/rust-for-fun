@@ -1,1 +1,1 @@
-/Users/appledododo/Documents/rust-learning/compound-data-types/target/debug/compound-data-types: /Users/appledododo/Documents/rust-learning/compound-data-types/src/main.rs
+/home/dododo/Documents/rust-for-fun/youtube-lessons/compound-data-types/target/debug/compound-data-types: /home/dododo/Documents/rust-for-fun/youtube-lessons/compound-data-types/src/main.rs

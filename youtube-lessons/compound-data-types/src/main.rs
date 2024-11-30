@@ -18,4 +18,15 @@ fn main() {
     let human_tuple: (String, i32, bool) = ("Dallas".to_string(), 29, false);
     println!("Human Tuple A: {:?}", human);
     println!("Human Tuple B: {:?}", human_tuple);
+
+    let intermix_tuple = ("Kratos", 1000, true, [1, 2, 3, 4, 5]);
+    println!("The God of War: {:?}", intermix_tuple);
+
+    //slices non interrupted
+
+    let number_slice: &[i32] = &[1, 2, 3, 4, 5];
+    println!("slice this {:?}", number_slice);
+
+    let another_slice: &[&str] = &["Cats", "Dogs", "Elephants", "Bears"];
+    println!("My favorite animals are a {:?}", another_slice);
 }
